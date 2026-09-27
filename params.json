@@ -1,11 +1,8 @@
 {
- "status": "UNVERIFIED",
- "country": "DE",
- "law_reference": "BKGG / EStG Kindergeld",
- "official_sources": [
-  "https://familienkasse.de"
- ],
- "verified_year": "2026",
- "generated_by": "LEGION-FORGE",
- "date": "2026-09-27"
+  "slug": "kindergeld-rechner-de",
+  "title": "Kindergeld optimizer",
+  "status": "UNVERIFIED_SCAFFOLD",
+  "country": "DE",
+  "sector": "social_policy",
+  "official_source": "familienkasse.de"
 }
